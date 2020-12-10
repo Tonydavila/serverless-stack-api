@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac0004af-f1b7-48c2-a8bb-12ac2a7b04b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notes-api/create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/delete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/libs/dynamodb-lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/libs/handler-lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/mocks/create-event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/mocks/delete-event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/mocks/get-event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/mocks/list-event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/mocks/update-event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes-api/update.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-api/handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-api/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-api/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes-api/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/notes-api/serverless.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notes-api/mocks" />
+    <property name="last_opened_file_path" value="C:/projects/credit-secrets" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +62,8 @@
       <updated>1606230957634</updated>
       <workItem from="1606230958909" duration="384000" />
       <workItem from="1606232087062" duration="3370000" />
-      <workItem from="1606238039142" duration="8218000" />
+      <workItem from="1606238039142" duration="11957000" />
+      <workItem from="1606497687179" duration="3369000" />
     </task>
     <servers />
   </component>
