@@ -42,11 +42,11 @@ Session.vim
 
 # Serverless
 .webpack
-.serverless
+services/notes/.serverless
 
 # env
 env.yml
-.env
+services/notes/.env
 
 # Jetbrains IDEs
 .idea
